@@ -1,0 +1,1 @@
+export {default as <%=FEATURE_NAME%>Service} from './<%=FEATURE_NAME_LOWER_CASE%>-services';

@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Gabriel Nogueira",
+      "authorEmail": "infotisolutions@gmail.com",
+      "authorUrl": "http://gabrielnogueira.com"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+export {default} from './<%=FEATURE_NAME_LOWER_CASE%>-logic';

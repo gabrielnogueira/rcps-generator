@@ -1,0 +1,2 @@
+//EXAMPLE =>
+//export const SEARCH_RECIPES = 'SEARCH_RECIPES';
